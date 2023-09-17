@@ -1,6 +1,6 @@
 // Replace with your S3 bucket name and endpoint URL
 const bucketName = 'uploadfilestos3';
-const endpointURL = 'https://fejx2l5juj.execute-api.eu-north-1.amazonaws.com/dev';
+const endpointURL = 'https://fejx2l5juj.execute-api.eu-north-1.amazonaws.com/dev1';
 
 function uploadFile() {
     const fileInput = document.getElementById('fileInput');
